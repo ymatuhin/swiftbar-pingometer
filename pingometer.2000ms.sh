@@ -1,7 +1,7 @@
 # <xbar.title>Pingometer</xbar.title>
 # <xbar.version>v2</xbar.version>
 # <xbar.author>ymatuhin</xbar.author>
-# <xbar.github>ymatuhin</xbar.github>
+# <xbar.github>https://github.com/ymatuhin/swiftbar-pingometer</xbar.github>
 # <xbar.desc>Display connection stability info (median/jitter/loss)</xbar.desc>
 # <xbar.about>https://ymatuhin.ru</xbar.about>
 # <xbar.dependencies>curl</xbar.dependencies>

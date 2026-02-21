@@ -1,6 +1,6 @@
 # Pingometer
 
-Pingometer is a [SwiftBar](https://swiftbar.app/) plugin that displays network stability in the menu bar.
+Pingometer is a [SwiftBar](https://github.com/swiftbar/SwiftBar/) plugin that displays network stability in the menu bar.
 
 There are times when you’re on a call with someone and suddenly frames drop, and you lose audio. In those moments, I always wonder: was it my connection or theirs? That was the main idea behind the app. More generally, I just like knowing how stable my internet connection is.
 
